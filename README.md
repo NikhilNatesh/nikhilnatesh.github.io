@@ -33,3 +33,6 @@ Logos identify employers listed in the supplied resume; trademarks belong to the
 - Dell Technologies: https://i.dell.com/sites/csimages/Legal_Imagery/all/DellTech_Logo_Prm_Blue_rgb.png
 - Ramco Systems: https://www.ramco.com/hubfs/website-assets/ramco-logo.png
 Logo files are bundled locally for reliable rendering.
+
+## Updated profile content
+Portrait and publication PDF are bundled in assets. Education was updated per Nikhil to Geetanjali Institute of Engineering and Technology, Computer Science, graduated 2014, including the downloadable resume and assistant. Publication metadata follows the supplied PDF and EconPapers screenshot.
